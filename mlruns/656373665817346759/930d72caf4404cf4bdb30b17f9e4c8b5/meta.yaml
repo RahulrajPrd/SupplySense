@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Rahul/Desktop/mlops/projects/interview/SupplySense/mlruns/656373665817346759/930d72caf4404cf4bdb30b17f9e4c8b5/artifacts
+end_time: 1768836260596
+entry_point_name: ''
+experiment_id: '656373665817346759'
+lifecycle_stage: active
+run_id: 930d72caf4404cf4bdb30b17f9e4c8b5
+run_name: FamilyFood Express
+run_uuid: 930d72caf4404cf4bdb30b17f9e4c8b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768836260491
+status: 3
+tags: []
+user_id: Rahul

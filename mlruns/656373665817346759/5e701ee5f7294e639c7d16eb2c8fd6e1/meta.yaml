@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Rahul/Desktop/mlops/projects/interview/SupplySense/mlruns/656373665817346759/5e701ee5f7294e639c7d16eb2c8fd6e1/artifacts
+end_time: 1768836261878
+entry_point_name: ''
+experiment_id: '656373665817346759'
+lifecycle_stage: active
+run_id: 5e701ee5f7294e639c7d16eb2c8fd6e1
+run_name: QuickStop Market
+run_uuid: 5e701ee5f7294e639c7d16eb2c8fd6e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768836261762
+status: 3
+tags: []
+user_id: Rahul

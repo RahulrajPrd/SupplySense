@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Rahul/Desktop/mlops/projects/interview/SupplySense/mlruns/656373665817346759/a9b3535127934512bf374d02e8222ba4/artifacts
+end_time: 1768836179013
+entry_point_name: ''
+experiment_id: '656373665817346759'
+lifecycle_stage: active
+run_id: a9b3535127934512bf374d02e8222ba4
+run_name: FreshMart Downtown
+run_uuid: a9b3535127934512bf374d02e8222ba4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768836178913
+status: 3
+tags: []
+user_id: Rahul

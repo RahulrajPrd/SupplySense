@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Rahul/Desktop/mlops/projects/interview/SupplySense/mlruns/656373665817346759/96335421121f4ec599a3c4702b129ba0/artifacts
+end_time: 1768836259994
+entry_point_name: ''
+experiment_id: '656373665817346759'
+lifecycle_stage: active
+run_id: 96335421121f4ec599a3c4702b129ba0
+run_name: City Fresh Store
+run_uuid: 96335421121f4ec599a3c4702b129ba0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768836259177
+status: 3
+tags: []
+user_id: Rahul

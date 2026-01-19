@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Rahul/Desktop/mlops/projects/interview/SupplySense/mlruns/656373665817346759/5a7af172488241439562061b40b39f63/artifacts
+end_time: 1768836177400
+entry_point_name: ''
+experiment_id: '656373665817346759'
+lifecycle_stage: active
+run_id: 5a7af172488241439562061b40b39f63
+run_name: GreenGrocer Plaza
+run_uuid: 5a7af172488241439562061b40b39f63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768836176444
+status: 3
+tags: []
+user_id: Rahul

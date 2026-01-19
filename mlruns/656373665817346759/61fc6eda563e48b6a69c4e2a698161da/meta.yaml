@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Rahul/Desktop/mlops/projects/interview/SupplySense/mlruns/656373665817346759/61fc6eda563e48b6a69c4e2a698161da/artifacts
+end_time: 1768836262445
+entry_point_name: ''
+experiment_id: '656373665817346759'
+lifecycle_stage: active
+run_id: 61fc6eda563e48b6a69c4e2a698161da
+run_name: ValuePlus Market
+run_uuid: 61fc6eda563e48b6a69c4e2a698161da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768836262348
+status: 3
+tags: []
+user_id: Rahul

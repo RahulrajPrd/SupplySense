@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Rahul/Desktop/mlops/projects/interview/SupplySense/mlruns/656373665817346759/28fd6af79a894c75b88e5fbdfce3e0ad/artifacts
+end_time: 1768836179269
+entry_point_name: ''
+experiment_id: '656373665817346759'
+lifecycle_stage: active
+run_id: 28fd6af79a894c75b88e5fbdfce3e0ad
+run_name: MegaMart Westside
+run_uuid: 28fd6af79a894c75b88e5fbdfce3e0ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768836179167
+status: 3
+tags: []
+user_id: Rahul

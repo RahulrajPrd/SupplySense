@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Rahul/Desktop/mlops/projects/interview/SupplySense/mlruns/656373665817346759/c2f90915e989425eb5b696df61d45783/artifacts
+end_time: 1768836177977
+entry_point_name: ''
+experiment_id: '656373665817346759'
+lifecycle_stage: active
+run_id: c2f90915e989425eb5b696df61d45783
+run_name: SuperSave Central
+run_uuid: c2f90915e989425eb5b696df61d45783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768836177873
+status: 3
+tags: []
+user_id: Rahul
